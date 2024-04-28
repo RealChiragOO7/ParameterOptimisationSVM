@@ -1,3 +1,7 @@
+# Parameter Optimisation of SVM
+![image](https://github.com/RealChiragOO7/ParameterOptimisationSVM/assets/108172197/22bc72fb-59b5-4efb-9f45-be1f507775fe)
+
+
 # Dataset Analysis Report
 
 ## Overview
